@@ -1,0 +1,36 @@
+.tamaño1{
+		width:200px;
+		height:200;
+	}
+	.tamaño2{
+		width:400px;
+		height:400px;
+	}
+		/* unvisited link */
+a:link {
+  color: black;
+}
+
+/* visited link */
+a:visited {
+  color: grey;
+}
+
+/* mouse over link */
+a:hover {
+  color: blue;
+}
+
+/* selected link */
+a:active {
+  color: lightblue;
+}
+body{
+	background-image: url("bg2.jpg");
+}
+table{
+	text-align: center;
+	background-color: white;
+	opacity: 0.95;
+	width:70%;
+}
